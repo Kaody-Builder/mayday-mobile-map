@@ -1,4 +1,4 @@
-# covid19_tracker
+# Mayday
 
 A new Flutter project.
 
